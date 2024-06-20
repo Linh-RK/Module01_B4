@@ -1,0 +1,14 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+  text-align: center;
+}
+b {
+  color: red;
+}
+img {
+  display: flex;
+  margin: 0 auto;
+  max-width: 400px;
+}

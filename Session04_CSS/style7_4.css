@@ -1,0 +1,40 @@
+body {
+  background-color: #f5f5f5;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.box {
+  margin: 20px;
+}
+h1 {
+  text-align: center;
+}
+.box,
+.box1 {
+  color: gray;
+  background-color: white;
+  padding: 20px 0px 20px 20px;
+  font-size: 20px;
+}
+button {
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  background-color: black;
+  color: white;
+  width: 70px;
+  height: 40px;
+  border-radius: 3px;
+}
+input {
+  height: 35px;
+  margin-top: 10px;
+  width: 99%;
+}
+.label {
+  margin-left: 10px;
+}
+.box1 {
+  width: 97%;
+  padding: 20px 0px 20px 20px;
+}

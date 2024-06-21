@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.img {
+  display: block;
+  width: 16%;
+  height: 45px;
+}
+.image {
+  display: flex;
+  gap: 3%;
+}
+.con1 input {
+  display: block;
+  width: 90%;
+  height: 35px;
+}
+.table {
+  display: flex;
+  gap: 10%;
+}
+.con2 {
+  width: 40%;
+}
+.con2 input {
+  width: 100%;
+  height: 35px;
+}
+label {
+  display: inline-block;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+button {
+  margin-top: 40px;
+  color: white;
+  background-color: #316bff;
+  font-size: 20px;
+  width: 20%;
+  height: 40px;
+  border-radius: 20px;
+}

@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+form {
+  width: 400px;
+  border: 1px solid rgb(207, 207, 207);
+  line-height: 40px;
+}
+table {
+  width: 100%;
+}
+.left {
+  text-align: right;
+}
+div {
+  border: 1px solid rgb(181, 181, 181);
+  padding: 20px;
+}

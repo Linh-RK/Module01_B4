@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+header {
+  padding: 20px 0px;
+  display: flex;
+  background-color: black;
+  color: white;
+  height: 80px;
+}
+.head1 {
+  font-size: 35px;
+  flex-grow: 8.2;
+}
+.head2 {
+  font-size: 10px;
+  margin: 10px;
+}
+.line1 {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 18px;
+}
+.block {
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+}
+form {
+  border: 1px solid black;
+  margin: 0 auto;
+}

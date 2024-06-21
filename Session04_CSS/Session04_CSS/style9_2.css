@@ -1,0 +1,17 @@
+img {
+  width: 300px;
+  height: 130px;
+}
+.box {
+  display: flexbox;
+  background-color: pink;
+  border: 1px solid black;
+  width: 300px;
+  height: auto;
+  padding: 10px;
+  margin: 20px;
+  position: static;
+}
+.row {
+  display: flex;
+}

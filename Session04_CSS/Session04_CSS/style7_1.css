@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  box-sizing: border-box;
+}
+.top {
+  display: inline-block;
+  color: white;
+  background-color: #8698cc;
+  width: 150px;
+  line-height: 40px;
+  font-size: 20px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.head {
+  font-size: 40px;
+
+  b {
+    color: #06aeef;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+}
+button {
+  display: inline-block;
+  background-color: black;
+  color: white;
+  width: 130px;
+  height: 40px;
+  margin: 7px;
+}
